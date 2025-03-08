@@ -17,3 +17,11 @@ Computer based Assistance AI, on Terminal-based input.
 
 # Everyone favorite:
 Rick Roll
+
+# How the version works on this project?
+Version (D as Developer Test) = total code / 2000
+convert decimal number to regular number
++ by now the version is 13242 / 2000 = 6.621 or 7 (soon will be D7)
+
+# For Programmers
+in .cpp, you'll see alot of code are closed due to error, will be interruped while processing or perform a task and yet to update.
