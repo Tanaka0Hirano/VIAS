@@ -1,0 +1,74 @@
+
+User Guide for VIAS Chatbot
+
+Welcome to the VIAS Chatbot! Below are the commands you can use. 
+Each task includes simple instructions to help you.
+====================================================================
+1. Normal Conversation
+You can chat naturally with the bot, and it will respond like a human.
+- Example: "Hello!" or "How are you?" etc.
+--------------------------
+2. Math Operations
+Perform math calculations directly by typing a math expression.
++ Examples:
+- "2 + 2"
+- "5 * 3"
+- " x^y " (Powered by)
+- "2r(16)" (use parentheses for square root to avoid errors)
++ "r" as spuare root
+--------------------------
+3. Number Generation
+Generate random numbers based on your request.
++ Examples:
+- "random 1 to 100"
+- ">50" (generates a number greater than 50)
+- "<100" (generates a number less than 100)
+--------------------------
+4. Create QR Code
+Create a QR code by typing qr followed by the text or link you want to encode.
++ type "qr" "QR" to open menu, then follow the rule to use it.
+--------------------------
+5. Open Website
+Open a website directly by typing web followed by the URL.
+- Type: "google" / "youtube" / "wiki" to open menu to select either "Home Page" or "Search"
+--------------------------
+6. Internet Search
+- Type: "search" for Google
+- Type: "yt" for Youtube
+- Type: "wiki" for wikipedia
+--------------------------
+7. Tell Time
+Find out the current time.
+- Command: "time"
++ Note: Time set for 12H (AM/PM)
+--------------------------
+8. Show Calendar
+Display the current month’s calendar.
+- Command: "calendar"
++ Note: the calendar base on your current time
+- Command: "cal + [month/year]" any date (month) on calendar
+- Command: "cal + [year]" any date (months of the year) on calendar
+--------------------------
+9. Write Notes
+Create a new note with the note command.
+- Type your note and press Enter after each line.
+- Type "EXIT" (in capital letters) when you’re done.
+- Note: Only English letters are supported for now.
+- Navigate to A.I note folder to see the saved files.
+--------------------------
+10. Edit Notes
+Edit an existing note by typing edit followed by the note content.
+- Follow the interactive steps to make changes.
++ Edit within the A.I Bot.
+--------------------------
+11.Code / Program writing
+- Type: "code" or "vs code" to open a code create task.
+- type: "edit code" to update, rerun, delete...
++ language: C, C++, Python, Java (more to come...)
+--------------------------
+12. Contact Developer
+If you have feedback or questions, type "contact" to connect with the developer.
+--------------------------
+Future Features
+Stay tuned! New features will be added soon.
+====================================================================
